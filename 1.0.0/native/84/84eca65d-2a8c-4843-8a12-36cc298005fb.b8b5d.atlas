@@ -1,0 +1,118 @@
+
+mult.jpg
+size: 1876,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mult_vfx_h_screen
+  rotate: true
+  xy: 533, 34
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_00
+  rotate: false
+  xy: 179, 16
+  size: 156, 164
+  orig: 300, 300
+  offset: 75, 67
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_01
+  rotate: true
+  xy: 337, 4
+  size: 180, 194
+  orig: 300, 300
+  offset: 63, 52
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_02
+  rotate: true
+  xy: 660, 6
+  size: 192, 206
+  orig: 300, 300
+  offset: 56, 47
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_03
+  rotate: true
+  xy: 868, 2
+  size: 206, 222
+  orig: 300, 300
+  offset: 48, 38
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_04
+  rotate: true
+  xy: 1636, 6
+  size: 228, 238
+  orig: 300, 300
+  offset: 37, 26
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_05
+  rotate: false
+  xy: 1594, 236
+  size: 240, 246
+  orig: 300, 300
+  offset: 31, 18
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_06
+  rotate: false
+  xy: 1342, 226
+  size: 250, 256
+  orig: 300, 300
+  offset: 24, 15
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_07
+  rotate: true
+  xy: 1080, 214
+  size: 268, 260
+  orig: 300, 300
+  offset: 16, 13
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_08
+  rotate: true
+  xy: 820, 210
+  size: 272, 258
+  orig: 300, 300
+  offset: 17, 18
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_09
+  rotate: true
+  xy: 554, 200
+  size: 282, 264
+  orig: 300, 300
+  offset: 12, 12
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_10
+  rotate: true
+  xy: 280, 186
+  size: 296, 272
+  orig: 300, 300
+  offset: 4, 4
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_11
+  rotate: true
+  xy: 2, 182
+  size: 300, 276
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+mult_vfx_i_screen/mult_vfx_i_screen_12
+  rotate: false
+  xy: 1342, 10
+  size: 292, 214
+  orig: 300, 300
+  offset: 7, 0
+  index: -1
+mult_vfx_j_screen
+  rotate: false
+  xy: 2, 5
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+mult_vfx_k_add
+  rotate: false
+  xy: 1092, 87
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,315 @@
+
+ui_car.png
+size: 2038,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_fx_lightonLB
+  rotate: false
+  xy: 1979, 311
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+_fx_lightonLB_bns
+  rotate: false
+  xy: 1979, 282
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+_fx_lightonLT
+  rotate: false
+  xy: 1979, 340
+  size: 25, 81
+  orig: 25, 81
+  offset: 0, 0
+  index: -1
+_fx_lightonLT_bns
+  rotate: true
+  xy: 1952, 249
+  size: 25, 81
+  orig: 25, 81
+  offset: 0, 0
+  index: -1
+_fx_lightonRB
+  rotate: false
+  xy: 2008, 387
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+_fx_lightonRB_bns
+  rotate: false
+  xy: 2008, 349
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+_fx_lightonRT
+  rotate: true
+  xy: 872, 304
+  size: 8, 79
+  orig: 8, 79
+  offset: 0, 0
+  index: -1
+_fx_lightonRT_bns
+  rotate: true
+  xy: 1952, 198
+  size: 8, 79
+  orig: 8, 79
+  offset: 0, 0
+  index: -1
+_rflo/rflo_000
+  rotate: true
+  xy: 1001, 425
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_001
+  rotate: true
+  xy: 1148, 425
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_002
+  rotate: true
+  xy: 1295, 425
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_003
+  rotate: true
+  xy: 1442, 425
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_004
+  rotate: true
+  xy: 1589, 425
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_005
+  rotate: true
+  xy: 1736, 425
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_006
+  rotate: true
+  xy: 1883, 425
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_007
+  rotate: false
+  xy: 1001, 278
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_008
+  rotate: false
+  xy: 1164, 278
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_009
+  rotate: false
+  xy: 1327, 278
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_010
+  rotate: false
+  xy: 1490, 278
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_011
+  rotate: false
+  xy: 1653, 278
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_012
+  rotate: false
+  xy: 1816, 278
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_013
+  rotate: false
+  xy: 648, 151
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_014
+  rotate: false
+  xy: 811, 151
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_015
+  rotate: false
+  xy: 974, 131
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_016
+  rotate: false
+  xy: 1137, 131
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_017
+  rotate: false
+  xy: 1300, 131
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_018
+  rotate: false
+  xy: 1463, 131
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_019
+  rotate: false
+  xy: 1626, 131
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_020
+  rotate: false
+  xy: 1789, 131
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_021
+  rotate: false
+  xy: 4, 106
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_022
+  rotate: false
+  xy: 167, 106
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_023
+  rotate: false
+  xy: 330, 106
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_024
+  rotate: true
+  xy: 493, 90
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_025
+  rotate: false
+  xy: 640, 4
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+_rflo/rflo_026
+  rotate: false
+  xy: 803, 4
+  size: 159, 143
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+bns_car
+  rotate: false
+  xy: 4, 253
+  size: 318, 331
+  orig: 318, 331
+  offset: 0, 0
+  index: -1
+bns_car_tyres
+  rotate: true
+  xy: 648, 298
+  size: 286, 108
+  orig: 286, 108
+  offset: 0, 0
+  index: -1
+bns_flicker
+  rotate: false
+  xy: 966, 15
+  size: 157, 112
+  orig: 157, 112
+  offset: 0, 0
+  index: -1
+carray
+  rotate: true
+  xy: 872, 351
+  size: 234, 126
+  orig: 234, 126
+  offset: 0, 0
+  index: -1
+lightLb
+  rotate: false
+  xy: 1952, 210
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+lightRb
+  rotate: false
+  xy: 974, 286
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+lights
+  rotate: false
+  xy: 872, 316
+  size: 106, 31
+  orig: 106, 31
+  offset: 0, 0
+  index: -1
+main_car
+  rotate: false
+  xy: 326, 253
+  size: 318, 331
+  orig: 318, 331
+  offset: 0, 0
+  index: -1
+main_car_tyres
+  rotate: true
+  xy: 760, 298
+  size: 286, 108
+  orig: 286, 108
+  offset: 0, 0
+  index: -1
+
